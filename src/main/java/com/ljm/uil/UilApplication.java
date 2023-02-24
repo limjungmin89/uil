@@ -12,7 +12,7 @@ public class UilApplication {
 
 	public static void main(String[] args) {
 
-		logger.debug("start application");
+		logger.debug("start application !!!!!!!");
 
 		SpringApplication.run(UilApplication.class, args);
 	}
